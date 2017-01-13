@@ -1,0 +1,11 @@
+data/Inc/stm32f4xx_it.h.i
+data/Src/Nec/Nec.h.i
+data/Src/freertos.c.i
+data/Inc/stm32f4xx_hal_conf.h.i
+data/Src/Nec/Nec.c.i
+data/Src/main.c.i
+data/Inc/main.h.i
+data/Inc/FreeRTOSConfig.h.i
+data/Src/stm32f4xx_hal_timebase_TIM.c.i
+data/Src/stm32f4xx_hal_msp.c.i
+data/Src/stm32f4xx_it.c.i
